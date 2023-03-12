@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  - 🎓 I am pursuing my BTech Degree in Computer Science and Engineering from Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded, Maharashtra.
  - 🏫 Currently I am in my Final year of engineering. (2023 Batch)
  - 👨‍🎓 Along with Development knowledge I have separate DSA background also. I have secured first rank on GFG platform from my Institute.
- - 👨‍💻 I am 3* coder at Codechef and have solved nearly 200+ questions each on GFG and leetcode.
+ - 👨‍💻 I am 3* coder at Codechef and have solved nearly 550+ questions each on GFG and leetcode.
  - ⚙ Tech Skills: React, NodeJs, MongoDB, C, CPP, Python, ExpressJs, JavaScript, Html, Css, Jquery
  - 🧠 Interest from Graphic Designing: Adobe Photoshop, Illustrator, Priemere Pro
  - 📫 How to reach me **sarafrushikesh52@gmail.com**
